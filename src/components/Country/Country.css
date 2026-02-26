@@ -1,0 +1,23 @@
+.country{
+    border: 3px solid teal;
+    margin-top: 20px;
+    padding: 5px 10px;
+    border-radius: 15px; 
+}
+
+.country img{
+    height: 200px;
+    width: 350px;
+   border-radius: 10px;
+ 
+}
+
+.imgdiv{
+     display: flex;
+     justify-content: center;
+}
+
+.country-visited {
+    background-color: rgb(168, 190, 190);
+    color: black;
+}
